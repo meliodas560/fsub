@@ -23,7 +23,7 @@ API_HASH = os.environ.get("API_HASH", "b9ca5d9a6c625a890af28db4adf50cf4")
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-100"))
 
 # NAMA OWNER
-OWNER = os.environ.get("OWNER", "Xflskay")
+OWNER = os.environ.get("OWNER", "ampunbgdevs")
 
 # Heroku Credentials for updater.
 HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", None)
