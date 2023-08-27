@@ -64,7 +64,7 @@
   ],
   "buildpacks": [
     {
-      "url": "https://github.com/interconnectit/heroku-buildpack-ffmpeg"
+      "url": "heroku/python"
     }
   ],
   "formation": {
